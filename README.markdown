@@ -410,6 +410,11 @@ final class Box<T> {
 }
 ```
 
+### Additional 
+
+Struct doesn't have free initiallizers as classes but it has initiallizer with all properties even if some of them are already predefined in the struct itself 
+
+
 ## Function Declarations
 
 Keep short function declarations on one line including the opening brace:
